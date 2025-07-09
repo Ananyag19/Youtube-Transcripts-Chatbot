@@ -63,3 +63,6 @@ Create vector embeddings
 Generate a response based on your query
 
 💬 Example
+
+![image alt](https://github.com/Ananyag19/Youtube-Transcripts-Chatbot/blob/b63b217533f26c9f349ee6cc288310bb483ef862/Screenshot%202025-07-09%20175819.png)
+![image alt](https://github.com/Ananyag19/Youtube-Transcripts-Chatbot/blob/b63b217533f26c9f349ee6cc288310bb483ef862/Screenshot%202025-07-09%20180114.png)
