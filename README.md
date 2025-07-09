@@ -39,7 +39,7 @@ Youtube-Transcripts-Chatbot/
 
 Create a `.env` file in the root directory and add your Google API key:
 
-```env
+env
 # .env
 # Get your API key here: https://aistudio.google.com/app/apikey
 GOOGLE_API_KEY=your_google_api_key_here
@@ -63,6 +63,7 @@ Create vector embeddings
 Generate a response based on your query
 
 💬 Example
+<img width="1919" height="869" alt="Image" src="https://github.com/user-attachments/assets/856fa302-7396-41a6-9d90-4f7ac23c2e76" />
 
-![image alt](https://github.com/Ananyag19/Youtube-Transcripts-Chatbot/blob/b63b217533f26c9f349ee6cc288310bb483ef862/Screenshot%202025-07-09%20175819.png)
-![image alt](https://github.com/Ananyag19/Youtube-Transcripts-Chatbot/blob/b63b217533f26c9f349ee6cc288310bb483ef862/Screenshot%202025-07-09%20180114.png)
+<img width="1870" height="843" alt="Image" src="https://github.com/user-attachments/assets/c0d68a3c-f854-4d48-a7a9-7105134983e6" />
+
