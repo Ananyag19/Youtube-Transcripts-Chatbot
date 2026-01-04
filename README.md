@@ -5,14 +5,14 @@ FAISS, Hugging Face embeddings, and Google's Gemini (via LangChain) to generate 
 
 ## 🚀 Features
 
-- 🔗 Input any YouTube video link (with captions enabled)
-- 📄 Automatically fetches and processes the transcript
-- 🧠 Breaks text into chunks and embeds them using `sentence-transformers`
-- 🔍 Creates a FAISS vector store for fast retrieval
-- 🤖 Uses `gemini-1.5-flash` via `langchain-google-genai` for answering queries
-- 🗂️ HTML frontend support (via `templates/index.html`)
+- Input any YouTube video link (with captions enabled)
+- Automatically fetches and processes the transcript
+- Breaks text into chunks and embeds them using `sentence-transformers`
+- Creates a FAISS vector store for fast retrieval
+- Uses `gemini-1.5-flash` via `langchain-google-genai` for answering queries
+- HTML frontend support (via `templates/index.html`)
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Area        | Tools & Libraries |
 |-------------|-------------------|
